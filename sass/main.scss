@@ -24,7 +24,7 @@ $bp-smallest: 31.25em;
     --imgbg: url(/img/wal.jpg);
 
 
-    --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+   # --imgcol: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
 
     @media only screen and (max-width: $bp-large) {
         --fsg: 100px;
